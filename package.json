@@ -1,0 +1,17 @@
+{
+  "name": "how_to_setup_professinal_backend_project",
+  "version": "1.0.0",
+  "description": "Learn how to setup a professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "mongoDB",
+    "mongoose"
+  ],
+  "author": "Prince Beri",
+  "license": "ISC"
+}
